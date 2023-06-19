@@ -1,4 +1,4 @@
-## Quantum Julia 👋
+## Quantum Julia
 
 Quantum Julia is a collection of open-source tools for quantum computing and quantum informaiton science written in Julia Lang. 
 This project is sponsored by [Anyon Systems](https://www.anyonsys.com). 
