@@ -1,6 +1,6 @@
-## Quantum Julia
+## Snowflurry SDK
 
-Quantum Julia is a collection of open-source tools for quantum computing and quantum informaiton science written in Julia Lang. 
+Snowflurry is a collection of open-source tools for quantum computing and quantum informaiton science. 
 This project is sponsored by [Anyon Systems](https://www.anyonsys.com). 
 
 
